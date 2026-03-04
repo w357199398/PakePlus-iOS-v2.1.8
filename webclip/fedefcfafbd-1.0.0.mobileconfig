@@ -8,7 +8,7 @@
 			<key>FullScreen</key>
 			<true/>
 			<key>Icon</key>
-			<data>undefined</data>
+			<data>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</data>
 			<key>IgnoreManifestScope</key>
 			<true/>
 			<key>IsRemovable</key>
@@ -20,11 +20,11 @@
 			<key>PayloadDisplayName</key>
 			<string>PakePayload</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-0E2EC1EAE4AE</string>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-CC26B9E5D059</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>E0736409-C08F-4F54-86DA-0E2EC1EAE4AE</string>
+			<string>E0736409-C08F-4F54-86DA-CC26B9E5D059</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -36,13 +36,13 @@
 	<key>PayloadDisplayName</key>
 	<string>PakePlus-iOS-fedefcfafbd</string>
 	<key>PayloadIdentifier</key>
-	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-0E2EC1EAE4AE</string>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-CC26B9E5D059</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6E3BF4EB-11D9-4F2E-8DE8-0E2EC1EAE4AE</string>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-CC26B9E5D059</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
